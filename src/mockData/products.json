@@ -1,0 +1,30 @@
+[
+    {
+        "id":"01",
+        "name":"Marvel's Spider-Man 2",
+        "platform":["ps5","pc","x-box"],
+        "price":"$89",
+        "mode":["single"]
+    },
+    {
+        "id":"02",
+        "name":"EA Sports FC 24",
+        "platform":["ps5","ps4","x-box","ninetendo","android"],
+        "price":"$69",
+        "mode":["single","multiplayer","online"]
+    },
+    {
+        "id":"03",
+        "name":"Grand Theft Auto VI",
+        "platform":["ps5","pc","x-box"],
+        "price":"$99",
+        "mode":["single","online"]
+    },
+    {
+        "id":"04",
+        "name":"Call of Duty: Modern Warfare III",
+        "platform":["ps5","pc","x-box"],
+        "price":"$59",
+        "mode":["single","online"]
+    }
+]

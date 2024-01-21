@@ -1,0 +1,21 @@
+[
+    {
+        "id":"01",
+        "user":"digpal",
+        "products":[
+            {
+                "id":"01",
+                "name":"Marvel's Spider-Man 2",
+                "platform":"pc",
+                "price":"$89"
+            },
+            {
+                "id":"04",
+                "name":"Call of Duty: Modern Warfare III",
+                "platform":"pc",
+                "price":"$59"
+            }
+        ]
+        
+    }
+]

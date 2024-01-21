@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "userId": "sachin",
+            "password": "cGFzc3dvcmQ=",
+            "name": "Sachin Sharma",
+            "type": "admin"
+        },
+        {
+            "userId": "digpal",
+            "password": "cGFzc3dvcmQ=",
+            "name": "Digpal Rana",
+            "type": "user"
+        },
+        {
+            "userId": "kuldeepak",
+            "password": "cGFzc3dvcmQ=",
+            "name": "Kuldeepak Dhir",
+            "type": "user"
+        },
+        {
+            "userId": "john",
+            "name": "John Doe",
+            "type": "user",
+            "password": "cGFzc3dvcmQ="
+        },
+        {
+            "userId": "test",
+            "name": "Test User",
+            "password": "cGFzc3dvcmQ=",
+            "type": "user"
+        }
+    ]
+}
